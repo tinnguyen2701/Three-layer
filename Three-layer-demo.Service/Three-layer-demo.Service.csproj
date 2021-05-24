@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Three_layer_demo.Service</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Three-layer-demo.Infrastructure\Three-layer-demo.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

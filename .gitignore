@@ -1,0 +1,11 @@
+/.vs
+/Three-layer-demo.Domain/bin
+/Three-layer-demo.Domain/obj
+/Three-layer-demo.Infrastructure/bin
+/Three-layer-demo.Infrastructure/obj
+/Three-layer-demo.Service/bin
+/Three-layer-demo.Service/obj
+/Three-layer-demo.WebApp/wwwroot
+/Three-layer-demo.WebApp/bin
+/Three-layer-demo.WebApp/obj
+/Three-layer-demo.WebApp/Properties/PublishProfiles
